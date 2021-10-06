@@ -2,7 +2,7 @@
 import './style.css';
 
 // Write Javascript code!
-let html = `<h1>Atividade</h1>`;
+let html = `<h1>Atividade</h1> Welington Fidelis de Sousa </br> </br>`;
 const text = "Atividade Empírica";
 
 html += `String usada nos métodos abaixo => ${text} </br></br>`;
